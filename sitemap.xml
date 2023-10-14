@@ -6,10 +6,37 @@
   
     
       <url>
-            <loc>ttps://Dmaner.github.io/</loc>
-            <changefreq>daily</changefreq>
+            <loc>https://dmaner.github.io/docs/</loc>
+            <lastmod>2023-10-14T13:03:09+08:00</lastmod>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://dmaner.github.io/docs/my-study-record/</loc>
+            <lastmod>2023-10-14T13:03:09+08:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://dmaner.github.io/</loc>
+            <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
     
   
     
