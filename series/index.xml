@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Lemon-Tom</title>
-    <link>https://dmaner.github.io/series/</link>
+    <link>https://Dmaner.github.io/series/</link>
     <description>Recent content in Series on Lemon-Tom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Lemon-Tom</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dmaner.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Dmaner.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>https://dmaner.github.io/series/documentation/</link>
+      <link>https://Dmaner.github.io/series/documentation/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dmaner.github.io/series/documentation/</guid>
+      <guid>https://Dmaner.github.io/series/documentation/</guid>
       <description></description>
       
     </item>
