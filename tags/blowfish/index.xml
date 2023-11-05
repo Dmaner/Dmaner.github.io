@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage Layout on 厚积薄发, 宁静致远</title>
-    <link>https://Dmaner.github.io/</link>
-    <description>Recent content in Homepage Layout on 厚积薄发, 宁静致远</description>
+    <title>Blowfish on 厚积薄发, 宁静致远</title>
+    <link>https://Dmaner.github.io/tags/blowfish/</link>
+    <description>Recent content in Blowfish on 厚积薄发, 宁静致远</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Dman</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Dmaner.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CMU 15-455 学习记录</title>
-      <link>https://Dmaner.github.io/docs/database/cmu-15-455/</link>
-      <pubDate>Sun, 05 Nov 2023 16:54:30 +0800</pubDate>
-      
-      <guid>https://Dmaner.github.io/docs/database/cmu-15-455/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/database/cmu-15-455/feature.png" />
-    </item>
-    
+    <lastBuildDate>Sat, 14 Oct 2023 13:03:09 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/blowfish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blowfish常用特性</title>
       <link>https://Dmaner.github.io/docs/others/</link>

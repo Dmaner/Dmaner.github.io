@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>docs on Lemon-Tom</title>
+    <title>docs on 厚积薄发, 宁静致远</title>
     <link>https://Dmaner.github.io/tags/docs/</link>
-    <description>Recent content in docs on Lemon-Tom</description>
+    <description>Recent content in docs on 厚积薄发, 宁静致远</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Lemon-Tom</copyright>
-    <lastBuildDate>Sat, 14 Oct 2023 13:03:09 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Dman</copyright>
+    <lastBuildDate>Sun, 05 Nov 2023 16:54:30 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>学习记录</title>
-      <link>https://Dmaner.github.io/docs/my-study-record/</link>
+      <title>CMU 15-455 学习记录</title>
+      <link>https://Dmaner.github.io/docs/database/cmu-15-455/</link>
+      <pubDate>Sun, 05 Nov 2023 16:54:30 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/docs/database/cmu-15-455/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/database/cmu-15-455/feature.png" />
+    </item>
+    
+    <item>
+      <title>Blowfish常用特性</title>
+      <link>https://Dmaner.github.io/docs/others/</link>
       <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
       
-      <guid>https://Dmaner.github.io/docs/my-study-record/</guid>
-      <description> Database # Games # RISC-V # </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/my-study-record/feature.jpg" />
+      <guid>https://Dmaner.github.io/docs/others/</guid>
+      <description>常用教程网址 # Blowfish HomePage
+Blowfish ShortCodes
+Blowfish Icon
+常用配置 # 记录一些常用的用于网页变更的配置项
+修改首页最近文章是否按卡片展示 # params.toml -&amp;gt; homepage -&amp;gt; cardView
+常用特性 # 记录一些常用的short codes 模块
+添加提醒 # {{&amp;lt; alert &amp;#34;github&amp;#34; &amp;gt;}} Don&amp;#39;t forget to [follow me](https://github.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/others/feature.jpg" />
     </item>
     
     <item>

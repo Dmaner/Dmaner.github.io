@@ -1,19 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lemon-Tom</title>
+    <title>Tags on 厚积薄发, 宁静致远</title>
     <link>https://Dmaner.github.io/tags/</link>
-    <description>Recent content in Tags on Lemon-Tom</description>
+    <description>Recent content in Tags on 厚积薄发, 宁静致远</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Lemon-Tom</copyright>
-    <lastBuildDate>Sat, 14 Oct 2023 13:03:09 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Dman</copyright>
+    <lastBuildDate>Sun, 05 Nov 2023 16:54:30 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>database</title>
+      <link>https://Dmaner.github.io/tags/database/</link>
+      <pubDate>Sun, 05 Nov 2023 16:54:30 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/database/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>docs</title>
       <link>https://Dmaner.github.io/tags/docs/</link>
-      <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
+      <pubDate>Sun, 05 Nov 2023 16:54:30 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/tags/docs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blowfish</title>
+      <link>https://Dmaner.github.io/tags/blowfish/</link>
+      <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/blowfish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://Dmaner.github.io/tags/hugo/</link>
+      <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/hugo/</guid>
       <description></description>
       
     </item>
