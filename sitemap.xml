@@ -4,8 +4,8 @@
   
     
       <url>
-            <loc>https://Dmaner.github.io/docs/database/cmu-15-455/</loc>
-            <lastmod>2023-11-05T16:54:30+08:00</lastmod>
+            <loc>https://Dmaner.github.io/docs/notes/compiler/</loc>
+            <lastmod>2023-11-06T02:07:47+08:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -18,12 +18,79 @@
     
       <url>
             <loc>https://Dmaner.github.io/docs/</loc>
-            <lastmod>2023-11-05T16:54:30+08:00</lastmod>
+            <lastmod>2023-11-06T02:04:13+08:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
   
+    
+      <url>
+            <loc>https://Dmaner.github.io/docs/projects/</loc>
+            <lastmod>2023-11-06T02:04:13+08:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://Dmaner.github.io/docs/projects/tutorial-vector-database/</loc>
+            <lastmod>2023-11-06T01:50:37+08:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://Dmaner.github.io/now/</loc>
+            <lastmod>2023-11-06T01:41:36+08:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://Dmaner.github.io/about/</loc>
+            <lastmod>2023-11-06T01:37:18+08:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://Dmaner.github.io/docs/notes/compiler/llvm/</loc>
+            <lastmod>2023-11-06T01:25:31+08:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://Dmaner.github.io/docs/notes/compiler/dragon-book/</loc>
+            <lastmod>2023-11-06T01:20:26+08:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://Dmaner.github.io/docs/notes/database/cmu-15-455/</loc>
+            <lastmod>2023-11-05T16:54:30+08:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     

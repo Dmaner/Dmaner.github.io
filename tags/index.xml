@@ -7,11 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Dman</copyright>
-    <lastBuildDate>Sun, 05 Nov 2023 16:54:30 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 02:07:47 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docs</title>
+      <link>https://Dmaner.github.io/tags/docs/</link>
+      <pubDate>Mon, 06 Nov 2023 02:07:47 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/docs/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>database</title>
       <link>https://Dmaner.github.io/tags/database/</link>
-      <pubDate>Sun, 05 Nov 2023 16:54:30 +0800</pubDate>
+      <pubDate>Mon, 06 Nov 2023 01:50:37 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/tags/database/</guid>
       <description></description>
@@ -19,11 +29,21 @@
     </item>
     
     <item>
-      <title>docs</title>
-      <link>https://Dmaner.github.io/tags/docs/</link>
-      <pubDate>Sun, 05 Nov 2023 16:54:30 +0800</pubDate>
+      <title>projects</title>
+      <link>https://Dmaner.github.io/tags/projects/</link>
+      <pubDate>Mon, 06 Nov 2023 01:50:37 +0800</pubDate>
       
-      <guid>https://Dmaner.github.io/tags/docs/</guid>
+      <guid>https://Dmaner.github.io/tags/projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>compiler</title>
+      <link>https://Dmaner.github.io/tags/compiler/</link>
+      <pubDate>Mon, 06 Nov 2023 01:20:26 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/compiler/</guid>
       <description></description>
       
     </item>

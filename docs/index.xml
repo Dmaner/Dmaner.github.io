@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Dman</copyright>
-    <lastBuildDate>Sun, 05 Nov 2023 16:54:30 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 02:04:13 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CMU 15-455 学习记录</title>
-      <link>https://Dmaner.github.io/docs/database/cmu-15-455/</link>
+      <link>https://Dmaner.github.io/docs/notes/database/cmu-15-455/</link>
       <pubDate>Sun, 05 Nov 2023 16:54:30 +0800</pubDate>
       
-      <guid>https://Dmaner.github.io/docs/database/cmu-15-455/</guid>
+      <guid>https://Dmaner.github.io/docs/notes/database/cmu-15-455/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/database/cmu-15-455/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/notes/database/cmu-15-455/feature.png" />
     </item>
     
     <item>
@@ -24,13 +24,7 @@
       <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/docs/others/</guid>
-      <description>常用教程网址 # Blowfish HomePage
-Blowfish ShortCodes
-Blowfish Icon
-常用配置 # 记录一些常用的用于网页变更的配置项
-修改首页最近文章是否按卡片展示 # params.toml -&amp;gt; homepage -&amp;gt; cardView
-常用特性 # 记录一些常用的short codes 模块
-添加提醒 # {{&amp;lt; alert &amp;#34;github&amp;#34; &amp;gt;}} Don&amp;#39;t forget to [follow me](https://github.</description>
+      <description>记录使用Hugo+Blowfish Theme的一些小tips</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/others/feature.jpg" />
     </item>
     
