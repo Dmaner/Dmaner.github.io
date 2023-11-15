@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Dman</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Dmaner.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 21:02:03 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMU 14-445 Database Experiment</title>
+      <link>https://Dmaner.github.io/series/cmu-14-445-database-experiment/</link>
+      <pubDate>Wed, 15 Nov 2023 21:02:03 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/series/cmu-14-445-database-experiment/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Documentation</title>
       <link>https://Dmaner.github.io/series/documentation/</link>

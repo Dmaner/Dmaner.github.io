@@ -10,12 +10,12 @@
     <lastBuildDate>Sat, 14 Oct 2023 13:03:09 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/blowfish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blowfish常用特性</title>
-      <link>https://Dmaner.github.io/docs/others/</link>
+      <link>https://Dmaner.github.io/docs/others/blowfish_notes/</link>
       <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
       
-      <guid>https://Dmaner.github.io/docs/others/</guid>
+      <guid>https://Dmaner.github.io/docs/others/blowfish_notes/</guid>
       <description>记录使用Hugo+Blowfish Theme的一些小tips</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/others/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/others/blowfish_notes/feature.jpg" />
     </item>
     
   </channel>

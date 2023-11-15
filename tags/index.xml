@@ -7,23 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Dman</copyright>
-    <lastBuildDate>Mon, 06 Nov 2023 02:07:47 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 21:02:03 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>docs</title>
-      <link>https://Dmaner.github.io/tags/docs/</link>
-      <pubDate>Mon, 06 Nov 2023 02:07:47 +0800</pubDate>
+      <title>database</title>
+      <link>https://Dmaner.github.io/tags/database/</link>
+      <pubDate>Wed, 15 Nov 2023 21:02:03 +0800</pubDate>
       
-      <guid>https://Dmaner.github.io/tags/docs/</guid>
+      <guid>https://Dmaner.github.io/tags/database/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>database</title>
-      <link>https://Dmaner.github.io/tags/database/</link>
-      <pubDate>Mon, 06 Nov 2023 01:50:37 +0800</pubDate>
+      <title>docs</title>
+      <link>https://Dmaner.github.io/tags/docs/</link>
+      <pubDate>Wed, 15 Nov 2023 21:02:03 +0800</pubDate>
       
-      <guid>https://Dmaner.github.io/tags/database/</guid>
+      <guid>https://Dmaner.github.io/tags/docs/</guid>
       <description></description>
       
     </item>
@@ -34,6 +34,16 @@
       <pubDate>Mon, 06 Nov 2023 01:50:37 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/tags/projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>complier</title>
+      <link>https://Dmaner.github.io/tags/complier/</link>
+      <pubDate>Mon, 06 Nov 2023 01:25:31 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/complier/</guid>
       <description></description>
       
     </item>
@@ -64,6 +74,16 @@
       <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>other</title>
+      <link>https://Dmaner.github.io/tags/other/</link>
+      <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/other/</guid>
       <description></description>
       
     </item>

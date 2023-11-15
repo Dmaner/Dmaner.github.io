@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Dman</copyright>
-    <lastBuildDate>Mon, 06 Nov 2023 01:50:37 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 21:02:03 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMU 14-445 Database Lab 0</title>
+      <link>https://Dmaner.github.io/cmu-15-445-lab-1/</link>
+      <pubDate>Wed, 15 Nov 2023 21:02:03 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/cmu-15-445-lab-1/</guid>
+      <description>考察基本的C++能力，实现前缀树</description>
+      
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://Dmaner.github.io/docs/notes/database/</link>
+      <pubDate>Tue, 14 Nov 2023 22:58:04 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/docs/notes/database/</guid>
+      <description>Learning database!</description>
+      
+    </item>
+    
     <item>
       <title>Tutorial Vector Database</title>
       <link>https://Dmaner.github.io/docs/projects/tutorial-vector-database/</link>
@@ -16,16 +36,6 @@
       <guid>https://Dmaner.github.io/docs/projects/tutorial-vector-database/</guid>
       <description>Make a tutorial vector database.</description>
       
-    </item>
-    
-    <item>
-      <title>CMU 15-455 学习记录</title>
-      <link>https://Dmaner.github.io/docs/notes/database/cmu-15-455/</link>
-      <pubDate>Sun, 05 Nov 2023 16:54:30 +0800</pubDate>
-      
-      <guid>https://Dmaner.github.io/docs/notes/database/cmu-15-455/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/notes/database/cmu-15-455/feature.png" />
     </item>
     
   </channel>

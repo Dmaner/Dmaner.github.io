@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMU 14-445 Database Experiment on 厚积薄发, 宁静致远</title>
+    <link>https://Dmaner.github.io/series/cmu-14-445-database-experiment/</link>
+    <description>Recent content in CMU 14-445 Database Experiment on 厚积薄发, 宁静致远</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Dman</copyright>
+    <lastBuildDate>Wed, 15 Nov 2023 21:02:03 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/series/cmu-14-445-database-experiment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMU 14-445 Database Lab 0</title>
+      <link>https://Dmaner.github.io/cmu-15-445-lab-1/</link>
+      <pubDate>Wed, 15 Nov 2023 21:02:03 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/cmu-15-445-lab-1/</guid>
+      <description>考察基本的C++能力，实现前缀树</description>
+      
+    </item>
+    
+  </channel>
+</rss>

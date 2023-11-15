@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Dman</copyright>
-    <lastBuildDate>Mon, 06 Nov 2023 02:07:47 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 21:02:03 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMU 14-445 Database Lab 0</title>
+      <link>https://Dmaner.github.io/cmu-15-445-lab-1/</link>
+      <pubDate>Wed, 15 Nov 2023 21:02:03 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/cmu-15-445-lab-1/</guid>
+      <description>考察基本的C++能力，实现前缀树</description>
+      
+    </item>
+    
     <item>
       <title>Compiler</title>
       <link>https://Dmaner.github.io/docs/notes/compiler/</link>
@@ -29,13 +39,13 @@
     </item>
     
     <item>
-      <title>LLVM</title>
+      <title>LLVM Docs</title>
       <link>https://Dmaner.github.io/docs/notes/compiler/llvm/</link>
       <pubDate>Mon, 06 Nov 2023 01:25:31 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/docs/notes/compiler/llvm/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/notes/compiler/llvm/feature.jpeg" />
+      <description>学习如何使用和理解LLVM</description>
+      
     </item>
     
     <item>
@@ -49,23 +59,23 @@
     </item>
     
     <item>
-      <title>CMU 15-455 学习记录</title>
-      <link>https://Dmaner.github.io/docs/notes/database/cmu-15-455/</link>
-      <pubDate>Sun, 05 Nov 2023 16:54:30 +0800</pubDate>
+      <title>Blowfish常用特性</title>
+      <link>https://Dmaner.github.io/docs/others/blowfish_notes/</link>
+      <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
       
-      <guid>https://Dmaner.github.io/docs/notes/database/cmu-15-455/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/notes/database/cmu-15-455/feature.png" />
+      <guid>https://Dmaner.github.io/docs/others/blowfish_notes/</guid>
+      <description>记录使用Hugo+Blowfish Theme的一些小tips</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/others/blowfish_notes/feature.jpg" />
     </item>
     
     <item>
-      <title>Blowfish常用特性</title>
+      <title>Other Docs</title>
       <link>https://Dmaner.github.io/docs/others/</link>
       <pubDate>Sat, 14 Oct 2023 13:03:09 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/docs/others/</guid>
-      <description>记录使用Hugo+Blowfish Theme的一些小tips</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/others/feature.jpg" />
+      <description>随笔记录</description>
+      
     </item>
     
     <item>
