@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Architecture on 厚积薄发, 宁静致远</title>
+    <link>https://Dmaner.github.io/docs/notes/computer-architecture/</link>
+    <description>Recent content in Computer Architecture on 厚积薄发, 宁静致远</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Dman</copyright>
+    <lastBuildDate>Thu, 23 Nov 2023 22:17:56 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/docs/notes/computer-architecture/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

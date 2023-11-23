@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Dman</copyright>
-    <lastBuildDate>Wed, 15 Nov 2023 21:02:03 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 22:17:56 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Architecture</title>
+      <link>https://Dmaner.github.io/docs/notes/computer-architecture/</link>
+      <pubDate>Thu, 23 Nov 2023 22:17:56 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/docs/notes/computer-architecture/</guid>
+      <description>计算机体系结构学习记录</description>
+      
+    </item>
+    
+    <item>
+      <title>Distributed System</title>
+      <link>https://Dmaner.github.io/docs/notes/distributed-system/</link>
+      <pubDate>Thu, 23 Nov 2023 22:11:51 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/docs/notes/distributed-system/</guid>
+      <description>分布式系统学习记录</description>
+      
+    </item>
+    
     <item>
       <title>CMU 14-445 Database Lab 0</title>
       <link>https://Dmaner.github.io/cmu-15-445-lab-1/</link>
@@ -24,7 +44,7 @@
       <pubDate>Mon, 06 Nov 2023 02:07:47 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/docs/notes/compiler/</guid>
-      <description> 记录学习编译器的过程 </description>
+      <description>编译原理学习记录</description>
       
     </item>
     
@@ -49,13 +69,13 @@
     </item>
     
     <item>
-      <title>Compiler</title>
+      <title>Dragon Book</title>
       <link>https://Dmaner.github.io/docs/notes/compiler/dragon-book/</link>
       <pubDate>Mon, 06 Nov 2023 01:20:26 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/docs/notes/compiler/dragon-book/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Dmaner.github.io/docs/notes/compiler/dragon-book/feature.png" />
+      <description>编译原理学习</description>
+      
     </item>
     
     <item>

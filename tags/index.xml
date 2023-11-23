@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Dman</copyright>
-    <lastBuildDate>Wed, 15 Nov 2023 21:02:03 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 22:17:56 +0800</lastBuildDate><atom:link href="https://Dmaner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>architecture</title>
+      <link>https://Dmaner.github.io/tags/architecture/</link>
+      <pubDate>Thu, 23 Nov 2023 22:17:56 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/architecture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>docs</title>
+      <link>https://Dmaner.github.io/tags/docs/</link>
+      <pubDate>Thu, 23 Nov 2023 22:17:56 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/docs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>distributed system</title>
+      <link>https://Dmaner.github.io/tags/distributed-system/</link>
+      <pubDate>Thu, 23 Nov 2023 22:11:51 +0800</pubDate>
+      
+      <guid>https://Dmaner.github.io/tags/distributed-system/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>database</title>
       <link>https://Dmaner.github.io/tags/database/</link>
@@ -19,11 +49,11 @@
     </item>
     
     <item>
-      <title>docs</title>
-      <link>https://Dmaner.github.io/tags/docs/</link>
-      <pubDate>Wed, 15 Nov 2023 21:02:03 +0800</pubDate>
+      <title>complier</title>
+      <link>https://Dmaner.github.io/tags/complier/</link>
+      <pubDate>Mon, 06 Nov 2023 02:07:47 +0800</pubDate>
       
-      <guid>https://Dmaner.github.io/tags/docs/</guid>
+      <guid>https://Dmaner.github.io/tags/complier/</guid>
       <description></description>
       
     </item>
@@ -34,16 +64,6 @@
       <pubDate>Mon, 06 Nov 2023 01:50:37 +0800</pubDate>
       
       <guid>https://Dmaner.github.io/tags/projects/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>complier</title>
-      <link>https://Dmaner.github.io/tags/complier/</link>
-      <pubDate>Mon, 06 Nov 2023 01:25:31 +0800</pubDate>
-      
-      <guid>https://Dmaner.github.io/tags/complier/</guid>
       <description></description>
       
     </item>

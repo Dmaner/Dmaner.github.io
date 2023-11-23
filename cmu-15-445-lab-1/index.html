@@ -99,7 +99,7 @@
     "keywords": ["docs","database"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "125"
+    "wordCount": "147"
   }]
   </script>
 
@@ -281,9 +281,9 @@
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
       <div class="flex flex-col space-y-3">
         
-        <a href=""  class="flex items-center">
+        <a href="/docs/notes/distributed-system/"  class="flex items-center">
           
-          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Distributed System">
             Distributed System
           </p>
         </a>
@@ -302,9 +302,9 @@
           </p>
         </a>
         
-        <a href=""  class="flex items-center">
+        <a href="/docs/notes/computer-architecture/"  class="flex items-center">
           
-          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Computer Architecture">
             Computer Architecture
           </p>
         </a>
@@ -576,9 +576,9 @@
 </li>
 
 <li class="mt-1">
-    <a href=""  class="flex items-center">
+    <a href="/docs/notes/distributed-system/"  class="flex items-center">
         
-        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="">
+        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="Distributed System">
             Distributed System
         </p>
     </a>
@@ -603,9 +603,9 @@
 </li>
 
 <li class="mt-1">
-    <a href=""  class="flex items-center">
+    <a href="/docs/notes/computer-architecture/"  class="flex items-center">
         
-        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="">
+        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="Computer Architecture">
             Computer Architecture
         </p>
     </a>
@@ -1074,9 +1074,14 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#environment">Environment</a></li>
-    <li><a href="#code">Code</a></li>
-    <li><a href="#task-requirement">Task Requirement</a></li>
-    <li><a href="#step">Step</a></li>
+    <li><a href="#tasks">Tasks</a></li>
+    <li><a href="#preparation">Preparation</a></li>
+    <li><a href="#experiment-records">Experiment records</a></li>
+    <li><a href="#run-tests">Run Tests</a></li>
+    <li><a href="#format-code">Format Code</a></li>
+    <li><a href="#memory-leaks">Memory Leaks</a></li>
+    <li><a href="#submission">Submission</a></li>
+    <li><a href="#solutions">Solutions</a></li>
     <li><a href="#reference">Reference</a></li>
   </ul>
 </nav>
@@ -1092,9 +1097,14 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#environment">Environment</a></li>
-    <li><a href="#code">Code</a></li>
-    <li><a href="#task-requirement">Task Requirement</a></li>
-    <li><a href="#step">Step</a></li>
+    <li><a href="#tasks">Tasks</a></li>
+    <li><a href="#preparation">Preparation</a></li>
+    <li><a href="#experiment-records">Experiment records</a></li>
+    <li><a href="#run-tests">Run Tests</a></li>
+    <li><a href="#format-code">Format Code</a></li>
+    <li><a href="#memory-leaks">Memory Leaks</a></li>
+    <li><a href="#submission">Submission</a></li>
+    <li><a href="#solutions">Solutions</a></li>
     <li><a href="#reference">Reference</a></li>
   </ul>
 </nav>
@@ -1179,17 +1189,32 @@
 <ul>
 <li>Mac OS</li>
 <li>Clang</li>
-<li>vscode</li>
+<li>CLion</li>
 </ul>
-<div id="code" class="anchor"></div>
-<h2 class="relative group">Code 
+<div id="tasks" class="anchor"></div>
+<h2 class="relative group">Tasks 
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#code" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#tasks" aria-label="Anchor">#</a></span>        
     
 </h2>
-<p>Bustub Code</p>
+<blockquote>
+<p>实验要求</p>
+</blockquote>
+<p>实现一个支持并发的字典树，<a href="https://15445.courses.cs.cmu.edu/fall2022/project0/"   target="_blank">
+    作业链接</a></p>
+<div id="preparation" class="anchor"></div>
+<h2 class="relative group">Preparation 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#preparation" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<ol>
+<li>拉取代码</li>
+</ol>
 <a target="_blank" href="https://github.com/cmu-db/bustub" class="cursor-pointer">
   <div class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md backdrop-blur shadow-2xl">
 
@@ -1250,6 +1275,101 @@
 
   </div>
 </a>
+<ol start="2">
+<li>设置环境，这里运行的是mac的命令</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">build_support/packages.sh
+</span></span></code></pre></div><ol start="3">
+<li>编译</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">mkdir build
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> build
+</span></span><span class="line"><span class="cl">cmake -DCMAKE_BUILD_TYPE<span class="o">=</span>Debug ..
+</span></span><span class="line"><span class="cl">make
+</span></span><span class="line"><span class="cl"><span class="c1"># 多线程编译</span>
+</span></span><span class="line"><span class="cl">make -j<span class="sb">`</span>nproc<span class="sb">`</span>
+</span></span></code></pre></div><div id="experiment-records" class="anchor"></div>
+<h2 class="relative group">Experiment records 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#experiment-records" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<blockquote>
+<p>记录实验中遇到的问题以及实现思路</p>
+</blockquote>
+<p>实验内容比较简单，主要是熟悉一下<code>C++</code>，毕竟好久没写了，记录一下可能需要复习的点</p>
+<ul>
+<li><code>unique_ptr</code></li>
+<li><code>dynamic_cast</code></li>
+<li><code>reset</code></li>
+</ul>
+<div id="run-tests" class="anchor"></div>
+<h2 class="relative group">Run Tests 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#run-tests" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<blockquote>
+<p>删除<code>DISABLED_</code>前缀编译运行测试</p>
+</blockquote>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> build
+</span></span><span class="line"><span class="cl">make starter_trie_test
+</span></span><span class="line"><span class="cl">./test/starter_trie_test
+</span></span></code></pre></div><div id="format-code" class="anchor"></div>
+<h2 class="relative group">Format Code 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#format-code" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<blockquote>
+<p>格式化代码</p>
+</blockquote>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> build
+</span></span><span class="line"><span class="cl">make format
+</span></span><span class="line"><span class="cl">make check-lint
+</span></span><span class="line"><span class="cl">make check-clang-tidy-p0
+</span></span></code></pre></div><div id="memory-leaks" class="anchor"></div>
+<h2 class="relative group">Memory Leaks 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#memory-leaks" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<blockquote>
+<p>检查内存泄露</p>
+</blockquote>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">valgrind <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>    --error-exitcode<span class="o">=</span><span class="m">1</span> <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>    --leak-check<span class="o">=</span>full <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>    ./test/starter_trie_test
+</span></span></code></pre></div><div id="submission" class="anchor"></div>
+<h2 class="relative group">Submission 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#submission" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<blockquote>
+<p>提交打包文件上传的gradescope</p>
+</blockquote>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">zip project0-submission.zip <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>    src/include/primer/p0_trie.h 
+</span></span></code></pre></div><div id="solutions" class="anchor"></div>
+<h2 class="relative group">Solutions 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#solutions" aria-label="Anchor">#</a></span>        
+    
+</h2>
 <p>My Solutions</p>
 <a target="_blank" href="https://github.com/Dmaner/DatabaseTutorial" class="cursor-pointer">
   <div class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md backdrop-blur shadow-2xl">
@@ -1311,66 +1431,7 @@
 
   </div>
 </a>
-<div id="task-requirement" class="anchor"></div>
-<h2 class="relative group">Task Requirement 
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#task-requirement" aria-label="Anchor">#</a></span>        
-    
-</h2>
-<p>实现一个支持并发的前缀树，<a href="https://15445.courses.cs.cmu.edu/fall2022/project0/"   target="_blank">
-    作业链接</a></p>
-<div id="step" class="anchor"></div>
-<h2 class="relative group">Step 
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#step" aria-label="Anchor">#</a></span>        
-    
-</h2>
-<ol>
-<li>
-<p>拉取代码</p>
-</li>
-<li>
-<p>设置环境，这里运行的是mac的命令</p>
-</li>
-</ol>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">build_support/packages.sh
-</span></span></code></pre></div><ol start="3">
-<li>编译</li>
-</ol>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">mkdir build
-</span></span><span class="line"><span class="cl"><span class="nb">cd</span> build
-</span></span><span class="line"><span class="cl">cmake -DCMAKE_BUILD_TYPE<span class="o">=</span>Debug ..
-</span></span><span class="line"><span class="cl">make
-</span></span><span class="line"><span class="cl"><span class="c1"># 多线程编译</span>
-</span></span></code></pre></div><ol start="4">
-<li>运行测试</li>
-</ol>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> build
-</span></span><span class="line"><span class="cl">make starter_trie_test
-</span></span><span class="line"><span class="cl">./test/starter_trie_test
-</span></span></code></pre></div><ol start="5">
-<li>格式化代码</li>
-</ol>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">make format
-</span></span><span class="line"><span class="cl">make check-lint
-</span></span><span class="line"><span class="cl">make check-clang-tidy-p0
-</span></span></code></pre></div><ol start="6">
-<li>检查内存泄露</li>
-</ol>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">valgrind <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>    --error-exitcode<span class="o">=</span><span class="m">1</span> <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>    --leak-check<span class="o">=</span>full <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>    ./test/starter_trie_test
-</span></span></code></pre></div><ol start="7">
-<li>提交打包文件</li>
-</ol>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">zip project0-submission.zip <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>    src/include/primer/p0_trie.h 
-</span></span></code></pre></div><div id="reference" class="anchor"></div>
+<div id="reference" class="anchor"></div>
 <h2 class="relative group">Reference 
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -1378,7 +1439,7 @@
             style="text-decoration-line: none !important;" href="#reference" aria-label="Anchor">#</a></span>        
     
 </h2>
-<p>Mac下编译测试失败issue</p>
+<p>Mac下编译测试失败issue, (MacOSX13.3.sdk)</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:162:5: error: static_assert failed due to requirement <span class="s1">&#39;__libcpp_random_is_valid_inttype&lt;char&gt;::value&#39;</span> <span class="s2">&#34;IntType must be a supported integer type&#34;</span>
 </span></span><span class="line"><span class="cl">    static_assert<span class="o">(</span>__libcpp_random_is_valid_inttype&lt;_IntType&gt;::value, <span class="s2">&#34;IntType must be a supported integer type&#34;</span><span class="o">)</span><span class="p">;</span>
 </span></span><span class="line"><span class="cl">    ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1750,16 +1811,12 @@
   <a href="/docs/notes/compiler/dragon-book/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
-        
-        <div class="w-full thumbnail_card_related nozoom" style="background-image:url(/docs/notes/compiler/dragon-book/feature_hu418b707ea82e3d355f415affe00c5d68_22025_600x0_resize_box_3.png);"></div>
-        
-      
 
       <div class="px-6 py-4">
 
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/docs/notes/compiler/dragon-book/">Compiler</div>
+          href="/docs/notes/compiler/dragon-book/">Dragon Book</div>
         
 
         <div class="text-sm text-neutral-500 dark:text-neutral-400">
@@ -1893,7 +1950,7 @@
 
         
         <div class="py-1 prose dark:prose-invert">
-          
+          编译原理学习
         </div>
         
       </div>
